@@ -9,7 +9,7 @@ The main_stitching.py file is for stitching a 10 second sound sample together by
 The testing.ipynb and util.py documents the implementation of quantization, and the general testing aswell as the metric calculations conducted in the report.
 
 ## Sound samples
-During this project sounds clips have been used for testing, consisting of a Classical, Rock, Pop and Speech sample. All can be found in the soundFiles folder, along with their corresponding MP3 and Opus formats.
+During this project, sounds clips have been used for testing, consisting of a Classical, Rock, Pop and Speech sample. All can be found in the soundFiles folder, along with their corresponding MP3 and Opus formats.
 
 ## Trained models
 All trained models used during the report can be found in the state_dicts folder.
