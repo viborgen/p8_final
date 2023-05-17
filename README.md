@@ -10,5 +10,5 @@ the main_stitching.py file is for stitching a 10 second sound sample together by
 
 
 
-## dependencies that cannot be installed with conda or pip
+## dependencies that cannot be installed with Conda or pip
 This work is using ViSQOL as a metric. Installation guide can be found here: https://github.com/google/visqol
